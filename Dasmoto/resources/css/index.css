@@ -1,0 +1,36 @@
+.dasmoto{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.wow{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    font-weight: bold; 
+}
+
+#green{
+    background-color: mediumspringgreen;
+}
+
+#coral{
+    background-color: lightcoral;
+}
+
+#blue{
+    background-color: skyblue;
+}
+
+#picture{
+    background-image: url("pattern.jpeg");
+}
+
+.parablue{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
